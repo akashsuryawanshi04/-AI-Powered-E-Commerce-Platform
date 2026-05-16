@@ -21,11 +21,11 @@ yarn-error.log*
 # React build output
 frontend/build/
 
-# Datasets (too large for git — download separately)
+# Datasets 
 backend/dataset/*.csv
 backend/dataset/*.json
 
-# Models (large files)
+# Models 
 *.bin
 *.pt
 *.pth
