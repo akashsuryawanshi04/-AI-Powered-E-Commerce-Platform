@@ -89,7 +89,7 @@ price/actual_price/selling_price, image/image_url/img_link
 
 ### 2. Instacart Market Basket Dataset
 
-1. Go to → **https://www.kaggle.com/c/instacart-market-basket-analysis/data**
+1. Go to → **https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis**
 2. Download `order_products__prior.csv`
 3. Rename to `instacart_orders.csv`
 4. Place at: `backend/dataset/instacart_orders.csv`
