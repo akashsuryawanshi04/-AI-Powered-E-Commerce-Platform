@@ -307,6 +307,15 @@ git push -u origin main
 | CORS error in browser | Ensure backend `FLASK_PORT=5000` and frontend proxy is set in `package.json` |
 | Embedding takes too long | Reduce the dataset (head 5000 rows) or use GPU |
 
+
+---
+
+# 👨‍💻 Author
+
+## Akash Suryawanshi
+
+MCA Student | AI/ML Developer | Full Stack Developer
+
 ---
 
 ## 📄 License
