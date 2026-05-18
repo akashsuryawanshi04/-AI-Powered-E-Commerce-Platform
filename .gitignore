@@ -1,1 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# React build output
+frontend/build/
+
+# Datasets 
+backend/dataset/*.csv
+backend/dataset/*.json
+
+# Models 
+*.bin
+*.pt
+*.pth
+backend/models/sentence_transformer_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
 
